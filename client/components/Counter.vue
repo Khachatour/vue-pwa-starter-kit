@@ -6,6 +6,7 @@
     <button @click="$store.commit('INCREMENT')">Increment</button>
     <button @click="$store.commit('DECREMENT')">Decrement</button>
     <button @click="$store.dispatch('incrementAsync')">Increment Async</button>
+    <a href="/#/contact">Go To Contacts</a>
   </div>
 </template>
 

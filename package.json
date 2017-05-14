@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "babel-runtime": "^6.18.0",
+    "bootstrap": "^3.3.7",
+    "bootstrap-vue": "^0.15.8",
     "promise-polyfill": "^6.0.2",
     "pwa-manifest-webpack-plugin": "^1.0.3",
     "vue": "^2.2.0",
