@@ -2,7 +2,7 @@
 const pkg = require('../package')
 
 module.exports = {
-  port: 4000,
+  port: 5885,
   title: 'vupack-test-pwa',
   // when you use electron please set to relative path like ./
   // otherwise only set to absolute path when you're using history mode

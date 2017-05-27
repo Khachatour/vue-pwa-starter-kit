@@ -31,7 +31,8 @@ base.plugins.push(
     icon: {
       src: path.resolve('src/images/networking.png'),
       sizes: [200]
-    }
+    },
+    start_url:'/'
   })
 )
 
